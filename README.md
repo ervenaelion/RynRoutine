@@ -1,4 +1,4 @@
-# RynRoutine v1.0.0
+# RynRoutine v1.0.0 
 
 The first public release of **RynRoutine** — a simple desktop application for organizing your weekly routine.
 
@@ -18,8 +18,6 @@ The first public release of **RynRoutine** — a simple desktop application for 
 
 **Platform:** Windows 10/11 (64-bit)
 
-**Note:** No separate Node.js or Electron installation is required.
 
----
 
 First public release of RynRoutine. More improvements coming soon.
