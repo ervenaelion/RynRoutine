@@ -1,6 +1,6 @@
 # RynRoutine v1.0.0 
 
-The first public release of **RynRoutine** — a simple desktop application for organizing your weekly routine.
+The first public release of **RynRoutine** a simple desktop application for organizing your weekly routine.
 
 ### Features
 - Weekly routine planning (Sunday–Saturday)
